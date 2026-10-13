@@ -1,7 +1,7 @@
 <!-- Header -->
 
 <h1 align="center">Hi 👋, I'm Mostafa Elyan</h1>
-<h3 align="center">Full-Stack Developer | MERN • Next.js • TypeScript • Express</h3>
+<h3 align="center">Full-Stack Developer | MERN • Next.js • TypeScript • NestJS</h3>
 
 <p align="center">
   <a href="https://github.com/Mostafa3lyan">
@@ -60,15 +60,15 @@ I'm a **Full-Stack Developer** who builds modern, scalable, user-friendly web ap
 ### 📦 State Management & Data Fetching
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Context API" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
   <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
-  <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Context API" />
 </p>
 
 <p align="center">
@@ -123,7 +123,7 @@ I'm a **Full-Stack Developer** who builds modern, scalable, user-friendly web ap
 ### 🐳 DevOps & Deployment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,vercel,githubactions" alt="Docker, Vercel, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=docker,vercel,nginx,githubactions" alt="Docker, Vercel, GitHub Actions" />
 </p>
 
 <p align="center">
